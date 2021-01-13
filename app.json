@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "I will recreate an app to describe where all the energy from a power battery went throughout the day. "
   }
 }
